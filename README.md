@@ -4,7 +4,7 @@
 ### [AI newsletter for builders](https://devthinkai.beehiiv.com/)
 This is a weekly newsletter with in-depth insights, cutting-edge tools, and breaking news from the world of Generative AI.
 
-We cut through the hype to get key insights to builders like you wanting to lerverage generative AI.
+We cut through the hype to get key insights to builders like you wanting to leverage generative AI.
 
 ---
 ### Blog
