@@ -12,7 +12,7 @@ We cut through the hype to get key insights to builders like you wanting to leve
 
 ---
 ### [Knowling.ai](https://knowling.ai), a minimalist Personal Knowledge Management app (similar to Obsidian or Mem.ai).
-Knowling has integrations with a vector db and LLM to enhace your abilty to organize notes and discover connections across notes.
+Knowling has integrations with a vector db and LLM to enhance your abilty to organize notes and discover connections across notes.
 
 Built on the Tauri framework, which is a Rust paired with a Vue.js frontend.
 
