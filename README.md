@@ -1,10 +1,13 @@
 ## Hello 👋, I’m currently working on
 
 ---
-### [AI newsletter for builders](https://devthinkai.beehiiv.com/)
-This is a weekly newsletter with in-depth insights, cutting-edge tools, and breaking news from the world of Generative AI.
+### 📰 DevThink.AI: AI newsletter for software developers
+This is a weekly newsletter with:
+- **AI Tools for Developers**: Coverage of new AI-powered development tools and how to use them effectively.
+- **Implementing GenAI in Apps**: Practical guides and case studies on integrating generative AI into software applications.
+- **AI News for Software Engineers**: Curated news and updates relevant specifically to developers (all the hype filtered out).
 
-We cut through the hype to get key insights to builders like you wanting to leverage generative AI.
+**✅ [Signup today!](https://devthink.ai)**
 
 ---
 ### Blog
@@ -17,7 +20,7 @@ Knowling has integrations with a vector db and LLM to enhance your abilty to org
 Built on the Tauri framework, which is a Rust paired with a Vue.js frontend.
 
 ---
-### [babel-bridge](https://github.com/samkeen/babel-bridge)
+### [llm-bridge](https://github.com/samkeen/llm-bridge)
 This is a Rust SDK wrapper for interacting with various Large Language Model (LLM) APIs.
 
 ---
