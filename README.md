@@ -1,8 +1,7 @@
 ## Hello 👋, I’m currently working on
 
 ---
-### 📰 DevThink.AI: AI newsletter for software developers
-This is a weekly newsletter with:
+### 📰 DevThink.AI: AI weekly newsletter for software developers
 - **AI Tools for Developers**: Coverage of new AI-powered development tools and how to use them effectively.
 - **Implementing GenAI in Apps**: Practical guides and case studies on integrating generative AI into software applications.
 - **AI News for Software Engineers**: Curated news and updates relevant specifically to developers (all the hype filtered out).
