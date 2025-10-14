@@ -3,15 +3,13 @@
 ---
 ### 📰 Altered Craft: Newsletter for software developers covering the latest trends in AI
 
-Hi, I’m Sam Keen. At AlteredCraft, I help developers do more than just keep up with AI’s rapid changes in software, I help you thrive. 
+Hi, I’m Sam Keen. At AlteredCraft, since May of 2023, I've been helping developers do more than just keep up with AI’s rapid changes in software, I've been helping them thrive. 
 
 AlteredCraft offers:
 - Delta Notes weekly posts cover what’s shifting now
 - Deep dives break down what these changes mean for your work, so you can adapt with confidence.
 
-I bring over 25 years in software and tech leadership, from startups to Lululemon, Nike, and AWS. My focus: cutting through the noise to offer real value and actionable advice.
-
-[1] Formerly DevThink.AI, weekly editions since May 2023
+I bring over 25+ years in software and tech leadership, from startups to Lululemon, Nike, and AWS. My focus: cutting through the noise to offer real value and actionable advice.
 
 
 **✅ [Signup today!](https://alteredcraft.com/)**
