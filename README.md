@@ -1,26 +1,20 @@
 ## Hello 👋, I’m currently working on
 
 ---
-### 📰 DevThink.AI: Weekly AI newsletter for software developers
-- **AI Tools for Developers**: Coverage of new AI-powered development tools and how to use them effectively.
-- **Implementing GenAI in Apps**: Practical guides and case studies on integrating generative AI into software applications.
-- **AI News for Software Engineers**: Curated news and updates relevant specifically to developers (all the hype filtered out).
+### 📰 Altered Craft: Newsletter for software developers covering the latest trends in AI
 
-**✅ [Signup today!](https://devthink.ai)**
+Hi, I’m Sam Keen. At AlteredCraft, I help developers do more than just keep up with AI’s rapid changes in software, I help you thrive. 
 
----
-### Blog
-[![](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://samkeen.dev)
+AlteredCraft offers:
+- Delta Notes weekly posts cover what’s shifting now
+- Deep dives break down what these changes mean for your work, so you can adapt with confidence.
 
----
-### [Knowling.ai](https://knowling.ai), a minimalist Personal Knowledge Management app (similar to Obsidian or Mem.ai).
-Knowling has integrations with a vector db and LLM to enhance your abilty to organize notes and discover connections across notes.
+I bring over 25 years in software and tech leadership, from startups to Lululemon, Nike, and AWS. My focus: cutting through the noise to offer real value and actionable advice.
 
-Built on the Tauri framework, which is a Rust paired with a Vue.js frontend.
+[1] Formerly DevThink.AI, weekly editions since May 2023
 
----
-### [llm-bridge](https://github.com/samkeen/llm-bridge)
-This is a Rust SDK wrapper for interacting with various Large Language Model (LLM) APIs.
+
+**✅ [Signup today!](https://alteredcraft.com/)**
 
 ---
 ### 📫 How to reach me
